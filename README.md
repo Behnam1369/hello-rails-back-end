@@ -51,8 +51,6 @@ To setup the front-end local server:
 - LinkedIn: [https://www.linkedin.com/in/behnam-aghaali](https://www.linkedin.com/in/behnam-aghaali)
 - Twitter: [https://twitter.com/behnamagh1369](https://twitter.com/behnamagh1369)
 
-Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
-
 
 ## 🤝 Contributing
 
